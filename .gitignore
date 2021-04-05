@@ -1,0 +1,4 @@
+local
+dist
+*.log
+node_modules
